@@ -35,3 +35,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: page1
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5629255246099361421
+      m_GuidHigh: 14996211517635817639
+    m_SerializedTextureGuid:
+      m_GuidLow: 16475347037725312587
+      m_GuidHigh: 16252757386331525307
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: bluebird
+    m_Texture: {fileID: 0}
